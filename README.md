@@ -1,2 +1,2 @@
 # Ucgen_Hesaplamalar
-üçgende hipotenüs, uzunluk ve alan hsaplama
+üçgende hipotenüs, uzunluk ve alan hesaplama
